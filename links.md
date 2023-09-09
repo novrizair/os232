@@ -8,7 +8,7 @@ Hello, OS people! Here are some links that i find useful for our future :D
 Good luck on your journey!
 
 * [Operating System Tutorial](https://www.tutorialspoint.com/operating_system/index.htm) ---
-  This website is one of my favorite. Here, we can learn lots of OS related.
+  This website is undeniable one of my favorite. Here, we can learn lots of OS related.
   There are also some exam questions with answers! What a perfect website!
 
 * [What is an Operating System as Fast as Possible](https://youtu.be/pVzRTmdd9j0?si=000TDqRQCXwc1sYe) ---
