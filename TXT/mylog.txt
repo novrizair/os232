@@ -2,8 +2,8 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
+ZCZC W01 25 L00 General, etc.
 ZCZC W01 150 L11 Setup Virtual Debian Guest
-ZCZC W01 90 L11 Pull/Push from Github
 ZCZC W01 90 L13 LINKS
 
 ZCZC W00 20 L04 Github Pages Related
