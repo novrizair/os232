@@ -19,3 +19,12 @@ permalink: LINKS/
   Now, after we learn about the definition of an operating system, we also have to learn about HOW do they work?
   What's even greater is that this video is only 3 minutes long! This video will show us the basics of the hard working operating system.
   We will also learn about primary and secondary memory, device management, and how the operating system provides an interface for the user.
+
+* [What is Linux?](https://youtu.be/zA3vmx0GaO8?si=35FDl7g_TDezb5Wi) ---
+  In this OS course, we will learn more about Linux. And, of course, with another 5 minutes video only!
+  This video will explain about what makes Linux different from Windows, which is very informative!
+
+* [C Programming Language Tutorial](https://www.javatpoint.com/c-programming-language-tutorial) ---
+  Do you know that Linux is made of C programming language?
+  Well, to understand the OS course better, we should learn more about the C programming language.
+  If you're taking this course, i highly recommend you to read some more from this website!
