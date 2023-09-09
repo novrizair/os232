@@ -1,11 +1,11 @@
 ---
 permalink: LINKS/
 ---
-#LINKS
+# LINKS
 
-Hello, OS people! Here are some links that i find useful for our future :D
+### Hello, OS people! Here are some links that i find useful for our future :D
 
-Good luck on your journey!
+### Good luck on your journey!
 
 * [Operating System Tutorial](https://www.tutorialspoint.com/operating_system/index.htm) ---
   This website is undeniable one of my favorite. Here, we can learn lots of OS related.
