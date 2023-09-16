@@ -39,11 +39,11 @@ permalink: LINKS/
   And... what are they? How do they relevant to this course?
   This video is very clear and straightforward, so i really recommend you to watch this one!
 
-* [Which is More Secure? Windows, Linux, or macOS?](https://www.sentinelone.com/blog/which-is-more-secure-windows-linux-or-macos/)
+* [Which is More Secure? Windows, Linux, or macOS?](https://www.sentinelone.com/blog/which-is-more-secure-windows-linux-or-macos/) ---
   Fun fact... (lots of you might know about this) WindowsOS is one of the most targeted in terms of security!
   But it's actually because WindowsOS is the most popular one! (Not because it has the weakest security).
   This website is pretty informative and... it's great to learn new things right?
 
-* [What is GPG/PGP](https://www.privex.io/articles/what-is-gpg)
+* [What is GPG/PGP](https://www.privex.io/articles/what-is-gpg) ---
   As we all know, in this weekly 02 assignment, we are using lots of "GPG."
   But, what is GPG? This website will explain it to you in detailed. So, don't miss this out!
