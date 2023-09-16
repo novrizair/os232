@@ -3,7 +3,7 @@ permalink: LINKS/
 ---
 # LINKS
 
-### Hello, OS people! Here are some links that i find useful for our future :D
+### Hello, OS people! Here are some links that i find useful for our future.
 
 ### Good luck on your journey!
 ---
