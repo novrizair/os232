@@ -6,6 +6,9 @@ permalink: LINKS/
 ### Hello, OS people! Here are some links that i find useful for our future :D
 
 ### Good luck on your journey!
+---
+
+## WEEK 01
 
 * [Operating System Tutorial](https://www.tutorialspoint.com/operating_system/index.htm) ---
   This website is undeniable one of my favorite. Here, we can learn lots of OS related.
@@ -28,3 +31,19 @@ permalink: LINKS/
   Do you know that Linux is made of C programming language?
   Well, to understand the OS course better, we should learn more about the C programming language.
   If you're taking this course, i highly recommend you to read some more from this website!
+
+## Week 02
+
+* [Asymmetric Encryption - Simply explained](https://youtu.be/AQDCe585Lnc?si=RpVxaW-hLEV_uzpw) ---
+  If you're taking the OS course, you will hear a lot about "public key" and "private key".
+  And... what are they? How do they relevant to this course?
+  This video is very clear and straightforward, so i really recommend you to watch this one!
+
+* [Which is More Secure? Windows, Linux, or macOS?](https://www.sentinelone.com/blog/which-is-more-secure-windows-linux-or-macos/)
+  Fun fact... (lots of you might know about this) WindowsOS is one of the most targeted in terms of security!
+  But it's actually because WindowsOS is the most popular one! (Not because it has the weakest security).
+  This website is pretty informative and... it's great to learn new things right?
+
+* [What is GPG/PGP](https://www.privex.io/articles/what-is-gpg)
+  As we all know, in this weekly 02 assignment, we are using lots of "GPG."
+  But, what is GPG? This website will explain it to you in detailed. So, don't miss this out!
