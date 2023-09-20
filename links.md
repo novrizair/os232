@@ -47,3 +47,19 @@ permalink: LINKS/
 * [What is GPG/PGP](https://www.privex.io/articles/what-is-gpg) ---
   As we all know, in this weekly 02 assignment, we are using lots of "GPG."
   But, what is GPG? This website will explain it to you in detailed. So, don't miss this out!
+
+## Week 03
+
+* [File Management in Linux](https://www.geeksforgeeks.org/file-management-in-linux/) ---
+  Many Linux operations are performed on files. In this website,
+  you will be able to learn more about Linux has 3 types of files (Regular Files, Directories, and Special Files).
+
+* [Linux Directories Explained in 100 Seconds](https://youtu.be/42iQKuQodW4?si=XKnXx0Na6XgR5DZk) ---
+  Back to some short videos that will help you a lot!
+  In only 100 seconds, you will be able to learn about the purpose of the most common Linux directories, such as /lib, /home, /tmp. etc.
+  I highly recommend you to watch this one!
+
+* [Explaining File Systems: NTFS, exFAT, FAT32, ext4 & More](https://youtu.be/_h30HBYxtws?si=Oc6hyziaoQ3A-HPr) ---
+  If you're working on your week 03 assignment now, you might find a file system called ext4.
+  What is it? This video will explain it to you (+ the other file systems!).
+  
