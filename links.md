@@ -65,14 +65,14 @@ permalink: LINKS/
 
 ## Week 04
 
-*[Dynamic Memory Allocation in C](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/) ---
- This website explains about dynamic memory allocation in C. 
- This will surely help you understand more about the topic!
+* [Dynamic Memory Allocation in C](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/) ---
+  This website explains about dynamic memory allocation in C. 
+  This will surely help you understand more about the topic!
 
-*[Pointers in C](https://linuxhint.com/use-pointers-c/) --- 
- We should know that pointers are the most important topic in the C programming language.
- And... this website will tell you more about how simple and enjoyable it is to learn pointers in C language!
+* [Pointers in C](https://linuxhint.com/use-pointers-c/) --- 
+  We should know that pointers are the most important topic in the C programming language.
+  And... this website will tell you more about how simple and enjoyable it is to learn pointers in C language!
 
-*[you will never ask about pointers again after watching this video](https://youtu.be/2ybLD6_2gKM?si=IwD1DYqkYazxTg36) ---
- This video shows you about what a pointer is (+syntax in C), as it applies to low level memory access. 
- I highly recommend you to watch this full video.
+* [you will never ask about pointers again after watching this video](https://youtu.be/2ybLD6_2gKM?si=IwD1DYqkYazxTg36) ---
+  This video shows you about what a pointer is (+syntax in C), as it applies to low level memory access. 
+  I highly recommend you to watch this full video.
