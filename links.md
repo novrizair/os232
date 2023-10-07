@@ -76,3 +76,15 @@ permalink: LINKS/
 * [you will never ask about pointers again after watching this video](https://youtu.be/2ybLD6_2gKM?si=IwD1DYqkYazxTg36) ---
   This video shows you about what a pointer is (+syntax in C), as it applies to low level memory access. 
   I highly recommend you to watch this full video.
+
+## Week 05
+
+* [virtual memory](https://www.techtarget.com/searchstorage/definition/virtual-memory) ---
+  Do you know that virtual memory is a memory management technique where secondary memory can be used as if it were a part of the main memory?
+  This website also gives you more detailed information about this topic.
+
+* [ Different Kinds of Memory as Fast As Possible](https://youtu.be/dZcszUj5szA?si=cCEsBITBEGUP-xZZ) ---
+  This video will explain you more about the big differences between DRAM, SRAM, cache, NAND, etc.
+
+* [Introduction to Memory](https://youtu.be/PujjqfUhtNo?si=Ru-xjYLxVAXeAryn) ---
+  It's Neso Academy's video so yeah go check this out!
