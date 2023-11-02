@@ -83,8 +83,24 @@ permalink: LINKS/
   Do you know that virtual memory is a memory management technique where secondary memory can be used as if it were a part of the main memory?
   This website also gives you more detailed information about this topic.
 
-* [ Different Kinds of Memory as Fast As Possible](https://youtu.be/dZcszUj5szA?si=cCEsBITBEGUP-xZZ) ---
+* [Different Kinds of Memory as Fast As Possible](https://youtu.be/dZcszUj5szA?si=cCEsBITBEGUP-xZZ) ---
   This video will explain you more about the big differences between DRAM, SRAM, cache, NAND, etc.
 
 * [Introduction to Memory](https://youtu.be/PujjqfUhtNo?si=Ru-xjYLxVAXeAryn) ---
   It's Neso Academy's video so yeah go check this out!
+
+## Week 06
+
+* [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/) ---
+  In this website, you can learn more this week's topic.
+  It provides a collection of notes for our OS course, so it's definetly recommended!
+
+* [Fork() in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/) ---
+  If you are using Windows, you might have seen a lot of processes in the task manager.
+  In this website, it explains about fork() function and implement some examples in the C programming language.
+
+* [Concurrency in Operating Systems](https://www.computer.org/csdl/magazine/co/1976/10/01647182/13rRUwwslyQ) ---
+  You can read this PDF book for free!
+  It explains this week's main topic, so you will understand it.
+
+
