@@ -103,4 +103,15 @@ permalink: LINKS/
   You can read this PDF book for free!
   It explains this week's main topic, so you will understand it.
 
+## Week 07
 
+* [Process Synchronization & Deadlock](https://generalnote.com/Computer-Fundamental/Operation-System/Process-Synchronization.php) ---
+  This website explains about this week's topic, process synchronization & deadlock briefly.
+  I personally highly recommend you to learn from this website!
+
+* [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/?ref=lbp) ---
+  It's GeeksforGeeks so it's definetly a must to read!
+
+* [Deadlock in Operating System | 4 Conditions of Deadlocks | Deadlock Handling - Process Management](https://youtu.be/UVo9mGARkhQ?si=Il-FA5NR-GSjQvbk) ---
+  In this deadlock in OS video tutorial, you will be able to understand about what is a deadlock in Operating systems,
+  what are the conditions that result in deadlocks & strategies for handling deadlocks.
