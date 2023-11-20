@@ -115,3 +115,17 @@ permalink: LINKS/
 * [Deadlock in Operating System | 4 Conditions of Deadlocks | Deadlock Handling - Process Management](https://youtu.be/UVo9mGARkhQ?si=Il-FA5NR-GSjQvbk) ---
   In this deadlock in OS video tutorial, you will be able to understand about what is a deadlock in Operating systems,
   what are the conditions that result in deadlocks & strategies for handling deadlocks.
+
+## Week 08
+
+* [Multiple Processor Scheduling](https://binaryterms.com/multiple-processor-scheduling.html) ---
+  This website explains about this week's topic.
+  I really recommend you to read this to improve your understandment!
+
+* [Welcome to Linux from Scratch!](https://www.linuxfromscratch.org/) ---
+  One of the best website about OS course i have ever found so far!
+  It will help you to do this week's assignment.
+
+* [Priority Scheduling Algorithm: Preemptive, Non-Preemptive EXAMPLE](https://www.guru99.com/priority-scheduling-program.html) ---
+  A must-read website!
+  We will learn more about a method of scheduling processes that is based on priority, called Priority Scheduling Algorithm.
