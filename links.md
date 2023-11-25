@@ -129,3 +129,18 @@ permalink: LINKS/
 * [Priority Scheduling Algorithm: Preemptive, Non-Preemptive EXAMPLE](https://www.guru99.com/priority-scheduling-program.html) ---
   A must-read website!
   We will learn more about a method of scheduling processes that is based on priority, called Priority Scheduling Algorithm.
+
+## Week 09
+
+* [Part 8: Ch 6 Cross CompilingTemporary Tools - How to build Linux From Scratch 11.3 in VirtualBox](https://youtu.be/eYXuG7DWc5g?si=3VmQ3GDKmnAAC3e4) ---
+  The whole playlist is such a life-saver.
+  A must-watch videos!
+
+* [What is RAID (Redundant Arrays of Independent Disks)?](https://www.javatpoint.com/what-is-raid) ---
+  This website explains all about RAID, this week's topic.
+
+* [What is firmware?](https://www.techtarget.com/whatis/definition/firmware) ---
+  The website tells the detailed information of firmware, this week's topic.
+
+  
+
